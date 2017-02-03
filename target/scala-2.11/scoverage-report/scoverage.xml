@@ -1,0 +1,87 @@
+<scoverage 
+statement-count="21" statements-invoked="21" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1486116847637">
+    <packages>
+        <package name="edu.knoldus" statement-count="21" statements-invoked="21" statement-rate="100.00">
+            <classes>
+                <class 
+                name="edu.knoldus.Directory" filename="edu\knoldus\Directory.scala" statement-count="21" statements-invoked="21" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/Directory/getFilesAndDirectories" statement-count="20" statements-invoked="20" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="758" end="786" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="507" end="572" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="581" end="595" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="813" end="846" line="26" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="384" end="400" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="507" end="540" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="653" end="685" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="526" end="539" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="402" end="625" line="13" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="640" end="741" line="18" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="548" end="548" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="504" end="504" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="813" end="846" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="507" end="572" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="307" end="793" line="11" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="485" end="596" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="433" end="447" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="274" end="858" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="549" end="571" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getFilesAndDirectories" start="697" end="730" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/Directory/getPath" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="Directory" class-type="Class" full-class-name="edu.knoldus.Directory" source="D:\Scala Programs\scala-futures\src\main\scala\edu\knoldus\Directory.scala" method="getPath" start="292" end="305" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

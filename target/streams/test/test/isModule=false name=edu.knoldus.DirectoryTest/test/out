@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mDirectoryTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should contain Files[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should be empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should give right Directory path[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should contain only files[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should contain files and empty folder[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should give path for Directory rather than File[0m[0m

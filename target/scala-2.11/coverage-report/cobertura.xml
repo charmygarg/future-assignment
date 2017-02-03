@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="1.00" lines-valid="21" lines-covered="21" branches-valid="4" branches-covered="4" branch-rate="1.00" complexity="0" version="1.0" timestamp="1486116847505">
+    <sources>
+        <source>--source</source>
+        <source>D:/Scala Programs/scala-futures/src/main/scala-2.11</source>
+        <source>D:/Scala Programs/scala-futures/src/main/scala</source>
+        <source>D:/Scala Programs/scala-futures/src/main/java</source>
+    </sources>
+    <packages>
+        <package name="edu.knoldus" line-rate="1.00" branch-rate="1.00" complexity="0">
+            <classes>
+                <class 
+                name="edu.knoldus.Directory" filename="edu/knoldus/Directory.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/Directory/getFilesAndDirectories" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="23" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="19" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="18" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="11" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                                <line number="10" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="20" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method name="edu.knoldus/Directory/getPath" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="11" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="19" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="18" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="11" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="11" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="10" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="20" hits="1" branch="false"/>
+                    </lines>
+</class>
+            </classes>
+        </package>
+    </packages>
+</coverage>
